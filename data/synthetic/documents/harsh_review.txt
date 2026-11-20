@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Harsh Patel (synthetic)
+Overall rating: 3.6 / 5
+Strengths: Python, SQL.
+Growth areas: Cloud platform (Azure / AWS / GCP), Deep learning, Git and code review.

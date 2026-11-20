@@ -1,0 +1,22 @@
+ARJUN MEHRA
+Team Lead, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for Cloud platform (Azure / AWS / GCP); set team standards and mentored others on moving batch jobs to managed cloud services.
+- Recognised go-to expert for SQL; set team standards and mentored others on warehouse queries and reporting views.
+- Strong in Data modeling for over a year; led work on star-schema models for finance reporting.
+- Strong in Streaming data for over a year; led work on a Kafka-based event feed.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Delivery planning regularly in project work, including sprint planning and quarterly roadmaps.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used People leadership regularly in project work, including 1:1s, feedback and hiring for the team.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on CI/CD; no project work yet.
+- Keeps a few legacy Jenkins freestyle jobs running.
+- Completed an introductory online course on Data security basics; no project work yet.
+- Completed an introductory online course on Workflow orchestration; no project work yet.
+- Schedules nightly jobs with cron scripts on a Linux VM.
+- Completed an introductory online course on Automated testing; no project work yet.
+
+SKILLS
+Cloud platform (Azure / AWS / GCP), SQL, Data modeling, Streaming data, Communication and presenting, Delivery planning, Git and code review, People leadership, Python

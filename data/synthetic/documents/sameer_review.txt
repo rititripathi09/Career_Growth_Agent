@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Sameer Kulkarni (synthetic)
+Overall rating: 4.5 / 5
+Strengths: Delivery planning, Git and code review, HTML and CSS.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Communication and presenting.

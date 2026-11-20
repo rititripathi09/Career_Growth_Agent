@@ -1,0 +1,16 @@
+FATIMA SHEIKH
+ML Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Python for over a year; led work on data pipelines and automation scripts.
+- Used Cloud platform (Azure / AWS / GCP) regularly in project work, including moving batch jobs to managed cloud services.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Deep learning regularly in project work, including a PyTorch image classifier.
+- Used Feature engineering regularly in project work, including feature pipelines for model training.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used MLOps regularly in project work, including model versioning and automated retraining.
+- Used SQL regularly in project work, including warehouse queries and reporting views.
+- Completed an introductory online course on Machine learning fundamentals; no project work yet.
+
+SKILLS
+Python, Cloud platform (Azure / AWS / GCP), Data security basics, Deep learning, Feature engineering, Git and code review, MLOps, SQL

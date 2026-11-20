@@ -1,0 +1,16 @@
+MEGHNA DAS
+ML Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Used Cloud platform (Azure / AWS / GCP) regularly in project work, including moving batch jobs to managed cloud services.
+- Used Feature engineering regularly in project work, including feature pipelines for model training.
+- Used MLOps regularly in project work, including model versioning and automated retraining.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Used SQL regularly in project work, including warehouse queries and reporting views.
+- Completed an introductory online course on Communication and presenting; no project work yet.
+- Completed an introductory online course on Data security basics; no project work yet.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on Machine learning fundamentals; no project work yet.
+
+SKILLS
+Cloud platform (Azure / AWS / GCP), Feature engineering, MLOps, Python, SQL

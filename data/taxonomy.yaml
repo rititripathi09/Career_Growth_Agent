@@ -1,0 +1,76 @@
+# Role-skill taxonomy for the Nimbus Tech demo.
+# Levels: 0 none · 1 aware · 2 working · 3 strong · 4 expert
+# type: mandatory | good_to_have   (org-wide skills are listed once under org_wide)
+
+levels:
+  0: None
+  1: Aware
+  2: Working
+  3: Strong
+  4: Expert
+
+skills:
+  python: {name: Python, category: Programming}
+  sql: {name: SQL, category: Data}
+  data_modeling: {name: Data modeling, category: Data}
+  cloud_platform: {name: Cloud platform (Azure / AWS / GCP), category: Cloud}
+  orchestration: {name: Workflow orchestration, category: Data}
+  streaming: {name: Streaming data, category: Data}
+  containers: {name: Containers and Kubernetes, category: Cloud}
+  infrastructure_as_code: {name: Infrastructure as code, category: Cloud}
+  ci_cd: {name: CI/CD, category: Engineering}
+  monitoring: {name: Monitoring and observability, category: Cloud}
+  javascript: {name: JavaScript / TypeScript, category: Programming}
+  react: {name: React, category: Frontend}
+  html_css: {name: HTML and CSS, category: Frontend}
+  testing: {name: Automated testing, category: Engineering}
+  ml_fundamentals: {name: Machine learning fundamentals, category: ML}
+  feature_engineering: {name: Feature engineering, category: ML}
+  deep_learning: {name: Deep learning, category: ML}
+  mlops: {name: MLOps, category: ML}
+  data_security: {name: Data security basics, category: Org-wide}
+  git: {name: Git and code review, category: Org-wide}
+  communication: {name: Communication and presenting, category: Org-wide}
+  people_leadership: {name: People leadership, category: Leadership}
+  delivery_planning: {name: Delivery planning, category: Leadership}
+
+# Mandatory for every role, whatever the team.
+org_wide:
+  data_security: 2
+  git: 2
+  communication: 2
+
+roles:
+  data_engineer:
+    name: Data Engineer
+    mandatory: {python: 3, sql: 3, cloud_platform: 3, orchestration: 3, data_modeling: 2}
+    good_to_have: {streaming: 2, testing: 2, ci_cd: 1}
+  cloud_engineer:
+    name: Cloud Engineer
+    mandatory: {cloud_platform: 3, containers: 3, infrastructure_as_code: 3, ci_cd: 2, monitoring: 2}
+    good_to_have: {python: 2, testing: 1}
+  frontend_engineer:
+    name: Frontend Engineer
+    mandatory: {javascript: 3, react: 3, html_css: 3, testing: 2}
+    good_to_have: {ci_cd: 1, cloud_platform: 1}
+  ml_engineer:
+    name: ML Engineer
+    mandatory: {python: 3, ml_fundamentals: 3, feature_engineering: 2, mlops: 2, sql: 2}
+    good_to_have: {deep_learning: 2, cloud_platform: 2}
+  team_lead:
+    name: Team Lead
+    mandatory: {people_leadership: 2, delivery_planning: 2, communication: 3}
+    good_to_have: {testing: 2, ci_cd: 2}
+  engineering_manager:
+    name: Engineering Manager
+    mandatory: {people_leadership: 3, delivery_planning: 3, communication: 3}
+    good_to_have: {cloud_platform: 1}
+
+# Tools the tech-stack check flags as dated, with a modern alternative.
+dated_tech:
+  cron: {suggest: a workflow orchestrator (e.g. Apache Airflow or Azure Data Factory), skill: orchestration}
+  python 2: {suggest: Python 3.12+, skill: python}
+  jquery: {suggest: React or plain modern JavaScript, skill: react}
+  angularjs: {suggest: React or modern Angular, skill: react}
+  svn: {suggest: Git, skill: git}
+  jenkins freestyle: {suggest: pipeline-as-code CI (GitHub Actions, Azure Pipelines), skill: ci_cd}

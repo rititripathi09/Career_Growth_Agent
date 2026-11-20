@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Arjun Mehra (synthetic)
+Overall rating: 4.1 / 5
+Strengths: Cloud platform (Azure / AWS / GCP), Data modeling, SQL.
+Growth areas: CI/CD, Data security basics, Workflow orchestration.

@@ -1,0 +1,14 @@
+SNEHA PILLAI
+Cloud Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for Cloud platform (Azure / AWS / GCP); set team standards and mentored others on moving batch jobs to managed cloud services.
+- Recognised go-to expert for Infrastructure as code; set team standards and mentored others on Terraform modules for shared environments.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on Containers and Kubernetes; no project work yet.
+- Completed an introductory online course on Monitoring and observability; no project work yet.
+
+SKILLS
+Cloud platform (Azure / AWS / GCP), Infrastructure as code, Data security basics, Git and code review, Python

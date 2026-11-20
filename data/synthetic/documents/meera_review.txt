@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Meera Krishnan (synthetic)
+Overall rating: 3.7 / 5
+Strengths: Communication and presenting, Delivery planning, People leadership.
+Growth areas: Cloud platform (Azure / AWS / GCP), Git and code review.

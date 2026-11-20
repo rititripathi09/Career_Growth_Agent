@@ -1,0 +1,15 @@
+HARSH PATEL
+ML Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Python for over a year; led work on data pipelines and automation scripts.
+- Strong in SQL for over a year; led work on warehouse queries and reporting views.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Feature engineering regularly in project work, including feature pipelines for model training.
+- Used Machine learning fundamentals regularly in project work, including classification models with scikit-learn.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on MLOps; no project work yet.
+
+SKILLS
+Python, SQL, Communication and presenting, Data security basics, Feature engineering, Machine learning fundamentals

@@ -1,0 +1,5 @@
+id,name,lead_id,manager_id
+cp,Cloud Platform,kavya,meera
+de,Data Engineering,arjun,meera
+fe,Frontend,sameer,rohan
+ml,ML,ananya,rohan

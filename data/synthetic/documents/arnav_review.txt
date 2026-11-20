@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Arnav Kapoor (synthetic)
+Overall rating: 3.5 / 5
+Strengths: Git and code review, JavaScript / TypeScript, React.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Data security basics.

@@ -1,0 +1,15 @@
+NIKHIL REDDY
+ML Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Git and code review for over a year; led work on code reviews and branching conventions.
+- Strong in SQL for over a year; led work on warehouse queries and reporting views.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Feature engineering regularly in project work, including feature pipelines for model training.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on Deep learning; no project work yet.
+- Completed an introductory online course on Machine learning fundamentals; no project work yet.
+
+SKILLS
+Git and code review, SQL, Communication and presenting, Data security basics, Feature engineering, Python

@@ -1,0 +1,15 @@
+RAHUL TIWARI
+Data Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for Python; set team standards and mentored others on data pipelines and automation scripts.
+- Recognised go-to expert for SQL; set team standards and mentored others on warehouse queries and reporting views.
+- Strong in Cloud platform (Azure / AWS / GCP) for over a year; led work on moving batch jobs to managed cloud services.
+- Strong in Workflow orchestration for over a year; led work on scheduled DAGs with retries and alerts.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Automated testing regularly in project work, including unit and integration test suites.
+- Completed an introductory online course on Communication and presenting; no project work yet.
+- Completed an introductory online course on Git and code review; no project work yet.
+
+SKILLS
+Python, SQL, Cloud platform (Azure / AWS / GCP), Workflow orchestration, Data security basics, Automated testing

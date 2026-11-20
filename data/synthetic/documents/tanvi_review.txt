@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Tanvi Joshi (synthetic)
+Overall rating: 4.1 / 5
+Strengths: JavaScript / TypeScript.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Communication and presenting.

@@ -1,0 +1,21 @@
+PRIYA SHARMA
+Data Engineer, Nimbus Tech (mock profile for the demo)
+
+SUMMARY
+Data engineer with 2 years of experience building batch pipelines in Python and SQL.
+Curious about machine learning; built a small churn-prediction model as a side project.
+
+EXPERIENCE
+Data Engineer, Nimbus Tech (2024 - present)
+- Built and maintain 4 production data pipelines in Python and pandas that load sales data into the warehouse.
+- Own the reporting data models used by finance (star schema, 30+ tables, SQL).
+- Schedule nightly jobs with cron scripts on a Linux VM.
+- Wrote unit tests with pytest for the pipeline transformations; reviewed teammates' pull requests on GitHub.
+- Presented the pipeline redesign at the monthly team demo.
+
+PROJECTS
+- Churn prediction (personal): scikit-learn model with feature engineering on customer activity data.
+- Completed an online cloud fundamentals course (no production cloud work yet).
+
+SKILLS
+Python, pandas, SQL, data modeling, pytest, Git, scikit-learn (basic), Linux, cron

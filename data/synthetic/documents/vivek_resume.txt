@@ -1,0 +1,16 @@
+VIVEK NAIR
+Cloud Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for Cloud platform (Azure / AWS / GCP); set team standards and mentored others on moving batch jobs to managed cloud services.
+- Strong in Infrastructure as code for over a year; led work on Terraform modules for shared environments.
+- Used CI/CD regularly in project work, including build-and-deploy pipelines in GitHub Actions.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on Containers and Kubernetes; no project work yet.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on Automated testing; no project work yet.
+
+SKILLS
+Cloud platform (Azure / AWS / GCP), Infrastructure as code, CI/CD, Communication and presenting, Data security basics, Python

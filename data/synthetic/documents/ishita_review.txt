@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Ishita Bose (synthetic)
+Overall rating: 3.0 / 5
+Strengths: Git and code review, HTML and CSS, JavaScript / TypeScript.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP).

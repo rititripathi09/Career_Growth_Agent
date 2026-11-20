@@ -1,0 +1,17 @@
+IMRAN KHAN
+Cloud Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for Cloud platform (Azure / AWS / GCP); set team standards and mentored others on moving batch jobs to managed cloud services.
+- Strong in Containers and Kubernetes for over a year; led work on Docker images and Kubernetes deployments.
+- Strong in Data security basics for over a year; led work on access reviews and PII masking.
+- Used CI/CD regularly in project work, including build-and-deploy pipelines in GitHub Actions.
+- Keeps a few legacy Jenkins freestyle jobs running.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on Infrastructure as code; no project work yet.
+- Completed an introductory online course on Monitoring and observability; no project work yet.
+
+SKILLS
+Cloud platform (Azure / AWS / GCP), Containers and Kubernetes, Data security basics, CI/CD, Communication and presenting, Python

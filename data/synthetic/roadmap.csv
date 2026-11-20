@@ -1,0 +1,138 @@
+employee_id,horizon,title,url,done
+aditya,30,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,1
+aditya,30,Apply CI/CD in one real task and show it at a team demo,,1
+aditya,60,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,0
+aditya,60,Apply Containers and Kubernetes in one real task and show it at a team demo,,0
+aditya,90,Infrastructure as code with Bicep (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=bicep%20infrastructure%20as%20code,0
+aditya,90,Monitor cloud applications (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor,0
+aditya,90,Review progress with the AI mentor and update your sources,,0
+arnav,30,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,1
+arnav,30,Apply Automated testing in one real task and show it at a team demo,,0
+arnav,60,Responsive Web Design (freeCodeCamp),https://www.freecodecamp.org/learn/2022/responsive-web-design/,0
+arnav,60,Apply HTML and CSS in one real task and show it at a team demo,,0
+arnav,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,0
+arnav,90,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,0
+arnav,90,Review progress with the AI mentor and update your sources,,0
+divya,30,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,1
+divya,30,Apply Cloud platform (Azure / AWS / GCP) in one real task and show it at a team demo,,1
+divya,60,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+divya,60,Apply Git and code review in one real task and show it at a team demo,,1
+divya,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,1
+divya,90,Review progress with the AI mentor and update your sources,,0
+fatima,30,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
+fatima,30,Apply Machine learning fundamentals in one real task and show it at a team demo,,1
+fatima,90,Review progress with the AI mentor and update your sources,,0
+harsh,30,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
+harsh,30,Apply Machine learning fundamentals in one real task and show it at a team demo,,1
+harsh,60,Train and deploy models with Azure Machine Learning (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20machine%20learning%20mlops,1
+harsh,60,Apply MLOps in one real task and show it at a team demo,,1
+harsh,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+harsh,90,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,1
+harsh,90,Intro to Deep Learning (Kaggle Learn),https://www.kaggle.com/learn/intro-to-deep-learning,1
+harsh,90,Review progress with the AI mentor and update your sources,,1
+imran,30,Infrastructure as code with Bicep (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=bicep%20infrastructure%20as%20code,1
+imran,30,Apply Infrastructure as code in one real task and show it at a team demo,,1
+imran,60,Monitor cloud applications (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor,1
+imran,60,Apply Monitoring and observability in one real task and show it at a team demo,,0
+imran,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,0
+imran,90,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,0
+imran,90,Review progress with the AI mentor and update your sources,,0
+ishita,30,Front End Development Libraries (React) (freeCodeCamp),https://www.freecodecamp.org/learn/front-end-development-libraries/,1
+ishita,30,Apply React in one real task and show it at a team demo,,1
+ishita,90,Review progress with the AI mentor and update your sources,,1
+karan,30,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,1
+karan,30,Apply Cloud platform (Azure / AWS / GCP) in one real task and show it at a team demo,,1
+karan,60,Relational Database (freeCodeCamp),https://www.freecodecamp.org/learn/relational-database/,1
+karan,60,Apply Data modeling in one real task and show it at a team demo,,0
+karan,90,Advanced SQL (Kaggle Learn),https://www.kaggle.com/learn/advanced-sql,0
+karan,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,0
+karan,90,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,0
+karan,90,Review progress with the AI mentor and update your sources,,0
+manish,30,Responsive Web Design (freeCodeCamp),https://www.freecodecamp.org/learn/2022/responsive-web-design/,0
+manish,30,Apply HTML and CSS in one real task and show it at a team demo,,0
+manish,60,JavaScript Algorithms and Data Structures (freeCodeCamp),https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/,0
+manish,60,Apply JavaScript / TypeScript in one real task and show it at a team demo,,0
+manish,90,Front End Development Libraries (React) (freeCodeCamp),https://www.freecodecamp.org/learn/front-end-development-libraries/,0
+manish,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,0
+manish,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,0
+manish,90,Review progress with the AI mentor and update your sources,,0
+meghna,30,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
+meghna,30,Apply Machine learning fundamentals in one real task and show it at a team demo,,1
+meghna,60,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,1
+meghna,60,Apply Python in one real task and show it at a team demo,,1
+meghna,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,1
+meghna,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+meghna,90,Intro to Deep Learning (Kaggle Learn),https://www.kaggle.com/learn/intro-to-deep-learning,1
+meghna,90,Review progress with the AI mentor and update your sources,,0
+neha,30,Relational Database (freeCodeCamp),https://www.freecodecamp.org/learn/relational-database/,1
+neha,30,Apply Data modeling in one real task and show it at a team demo,,0
+neha,60,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,0
+neha,60,Apply Python in one real task and show it at a team demo,,0
+neha,90,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,0
+neha,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,0
+neha,90,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,0
+neha,90,Review progress with the AI mentor and update your sources,,0
+nikhil,30,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
+nikhil,30,Apply Machine learning fundamentals in one real task and show it at a team demo,,1
+nikhil,60,Train and deploy models with Azure Machine Learning (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20machine%20learning%20mlops,1
+nikhil,60,Apply MLOps in one real task and show it at a team demo,,0
+nikhil,90,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,0
+nikhil,90,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,0
+nikhil,90,Intro to Deep Learning (Kaggle Learn),https://www.kaggle.com/learn/intro-to-deep-learning,0
+nikhil,90,Review progress with the AI mentor and update your sources,,0
+pooja,30,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,1
+pooja,30,Apply Containers and Kubernetes in one real task and show it at a team demo,,1
+pooja,60,Monitor cloud applications (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor,1
+pooja,60,Apply Monitoring and observability in one real task and show it at a team demo,,1
+pooja,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+pooja,90,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,0
+pooja,90,Review progress with the AI mentor and update your sources,,0
+priya,30,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,1
+priya,30,Apply Cloud platform (Azure / AWS / GCP) in one real task and show it at a team demo,,1
+priya,60,Data integration pipelines with Azure Data Factory (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=data%20factory%20pipelines,0
+priya,60,Apply Workflow orchestration in one real task and show it at a team demo,,0
+priya,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,0
+priya,90,Review progress with the AI mentor and update your sources,,0
+rahul,30,Relational Database (freeCodeCamp),https://www.freecodecamp.org/learn/relational-database/,1
+rahul,30,Apply Data modeling in one real task and show it at a team demo,,1
+rahul,60,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+rahul,60,Apply Git and code review in one real task and show it at a team demo,,1
+rahul,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,1
+rahul,90,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,0
+rahul,90,Review progress with the AI mentor and update your sources,,0
+riya,30,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,1
+riya,30,Apply Automated testing in one real task and show it at a team demo,,1
+riya,60,JavaScript Algorithms and Data Structures (freeCodeCamp),https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/,1
+riya,60,Apply JavaScript / TypeScript in one real task and show it at a team demo,,1
+riya,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,1
+riya,90,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,1
+riya,90,Azure fundamentals (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20fundamentals,1
+riya,90,Review progress with the AI mentor and update your sources,,0
+siddharth,30,Train and deploy models with Azure Machine Learning (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20machine%20learning%20mlops,1
+siddharth,30,Apply MLOps in one real task and show it at a team demo,,1
+siddharth,60,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,1
+siddharth,60,Apply Python in one real task and show it at a team demo,,1
+siddharth,90,Intro to SQL (Kaggle Learn),https://www.kaggle.com/learn/intro-to-sql,1
+siddharth,90,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,1
+siddharth,90,Review progress with the AI mentor and update your sources,,1
+sneha,30,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,1
+sneha,30,Apply CI/CD in one real task and show it at a team demo,,1
+sneha,60,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,1
+sneha,60,Apply Containers and Kubernetes in one real task and show it at a team demo,,1
+sneha,90,Monitor cloud applications (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor,1
+sneha,90,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,1
+sneha,90,Review progress with the AI mentor and update your sources,,1
+tanvi,30,Responsive Web Design (freeCodeCamp),https://www.freecodecamp.org/learn/2022/responsive-web-design/,1
+tanvi,30,Apply HTML and CSS in one real task and show it at a team demo,,1
+tanvi,60,Front End Development Libraries (React) (freeCodeCamp),https://www.freecodecamp.org/learn/front-end-development-libraries/,1
+tanvi,60,Apply React in one real task and show it at a team demo,,1
+tanvi,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+tanvi,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,1
+tanvi,90,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,1
+tanvi,90,Review progress with the AI mentor and update your sources,,0
+vivek,30,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,1
+vivek,30,Apply Containers and Kubernetes in one real task and show it at a team demo,,0
+vivek,60,Monitor cloud applications (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor,0
+vivek,60,Apply Monitoring and observability in one real task and show it at a team demo,,0
+vivek,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,0
+vivek,90,Review progress with the AI mentor and update your sources,,0

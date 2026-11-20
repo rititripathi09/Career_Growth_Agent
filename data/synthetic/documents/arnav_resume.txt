@@ -1,0 +1,14 @@
+ARNAV KAPOOR
+Frontend Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for JavaScript / TypeScript; set team standards and mentored others on TypeScript components for the customer portal.
+- Strong in Git and code review for over a year; led work on code reviews and branching conventions.
+- Strong in React for over a year; led work on a React design-system library.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used HTML and CSS regularly in project work, including responsive, accessible page layouts.
+- Completed an introductory online course on Cloud platform (Azure / AWS / GCP); no project work yet.
+- Completed an introductory online course on Data security basics; no project work yet.
+
+SKILLS
+JavaScript / TypeScript, Git and code review, React, Communication and presenting, HTML and CSS

@@ -1,0 +1,18 @@
+ADITYA RAO
+Cloud Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Cloud platform (Azure / AWS / GCP) for over a year; led work on moving batch jobs to managed cloud services.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Containers and Kubernetes regularly in project work, including Docker images and Kubernetes deployments.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used Infrastructure as code regularly in project work, including Terraform modules for shared environments.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on CI/CD; no project work yet.
+- Keeps a few legacy Jenkins freestyle jobs running.
+- Completed an introductory online course on Monitoring and observability; no project work yet.
+- Completed an introductory online course on Automated testing; no project work yet.
+
+SKILLS
+Cloud platform (Azure / AWS / GCP), Communication and presenting, Containers and Kubernetes, Data security basics, Git and code review, Infrastructure as code, Python

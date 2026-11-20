@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Ananya Ghosh (synthetic)
+Overall rating: 3.7 / 5
+Strengths: Delivery planning, MLOps, People leadership.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Data security basics.

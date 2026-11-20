@@ -1,0 +1,16 @@
+MANISH VERMA
+Frontend Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Used React regularly in project work, including a React design-system library.
+- Maintains an older jQuery admin page.
+- Used Automated testing regularly in project work, including unit and integration test suites.
+- Completed an introductory online course on CI/CD; no project work yet.
+- Keeps a few legacy Jenkins freestyle jobs running.
+- Completed an introductory online course on Communication and presenting; no project work yet.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on HTML and CSS; no project work yet.
+- Completed an introductory online course on JavaScript / TypeScript; no project work yet.
+
+SKILLS
+React, Automated testing

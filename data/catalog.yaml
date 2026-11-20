@@ -1,0 +1,254 @@
+# Curated learning catalog: FREE, publicly accessible courses only.
+# Platforms: Microsoft Learn, freeCodeCamp, Kaggle Learn.
+# The recommender picks ONLY from this file, so the AI never invents a course or a link.
+# Run `uv run python scripts/check_links.py` once to confirm every URL still opens.
+#
+# fields: id, title, platform, url, skills (skill ids from taxonomy.yaml), level (1-4 it helps reach),
+#         hours (approximate), kind: course | path | certification, cost: free | exam fee
+
+items:
+  # ---------- Microsoft Learn (free) ----------
+  - id: msl-de-azure
+    title: Get started with data engineering on Azure
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/
+    skills: [cloud_platform, data_modeling]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-azure-fundamentals
+    title: Azure fundamentals (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=azure%20fundamentals
+    skills: [cloud_platform]
+    level: 1
+    kind: path
+    cost: free
+  - id: msl-data-factory
+    title: Data integration pipelines with Azure Data Factory (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=data%20factory%20pipelines
+    skills: [orchestration]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-streaming
+    title: Real-time streaming on Azure (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs
+    skills: [streaming]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-containers
+    title: Containers and Kubernetes on Azure (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers
+    skills: [containers]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-iac
+    title: Infrastructure as code with Bicep (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=bicep%20infrastructure%20as%20code
+    skills: [infrastructure_as_code]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-devops
+    title: CI/CD with Azure DevOps and GitHub Actions (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd
+    skills: [ci_cd]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-monitoring
+    title: Monitor cloud applications (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor
+    skills: [monitoring]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-azure-ml
+    title: Train and deploy models with Azure Machine Learning (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=azure%20machine%20learning%20mlops
+    skills: [mlops]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-security
+    title: Security, compliance and identity fundamentals (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals
+    skills: [data_security]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-git
+    title: Introduction to Git and GitHub (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git
+    skills: [git]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-leadership
+    title: Lead and develop teams (search results)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/browse/?terms=leadership
+    skills: [people_leadership, delivery_planning]
+    level: 2
+    kind: path
+    cost: free
+  - id: msl-cert-data-engineer
+    title: Microsoft data engineering certification (exam)
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/credentials/browse/?terms=data%20engineer
+    skills: [cloud_platform, orchestration]
+    level: 3
+    kind: certification
+    cost: exam fee
+
+  # ---------- freeCodeCamp (free, free certifications) ----------
+  - id: fcc-python
+    title: Scientific Computing with Python
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/scientific-computing-with-python/
+    skills: [python]
+    level: 2
+    kind: certification
+    cost: free
+  - id: fcc-data-analysis
+    title: Data Analysis with Python
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/data-analysis-with-python/
+    skills: [python, feature_engineering]
+    level: 3
+    kind: certification
+    cost: free
+  - id: fcc-ml-python
+    title: Machine Learning with Python
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/machine-learning-with-python/
+    skills: [ml_fundamentals, deep_learning]
+    level: 3
+    kind: certification
+    cost: free
+  - id: fcc-relational-db
+    title: Relational Database
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/relational-database/
+    skills: [sql, data_modeling]
+    level: 2
+    kind: certification
+    cost: free
+  - id: fcc-infosec
+    title: Information Security
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/information-security/
+    skills: [data_security]
+    level: 3
+    kind: certification
+    cost: free
+  - id: fcc-js
+    title: JavaScript Algorithms and Data Structures
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+    skills: [javascript]
+    level: 3
+    kind: certification
+    cost: free
+  - id: fcc-frontend-libs
+    title: Front End Development Libraries (React)
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/front-end-development-libraries/
+    skills: [react]
+    level: 3
+    kind: certification
+    cost: free
+  - id: fcc-responsive-web
+    title: Responsive Web Design
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+    skills: [html_css]
+    level: 3
+    kind: certification
+    cost: free
+  - id: fcc-qa
+    title: Quality Assurance
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/quality-assurance/
+    skills: [testing]
+    level: 2
+    kind: certification
+    cost: free
+
+  # ---------- Kaggle Learn (free) ----------
+  - id: kgl-python
+    title: Python
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/python
+    skills: [python]
+    level: 2
+    kind: course
+    cost: free
+  - id: kgl-sql
+    title: Intro to SQL
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/intro-to-sql
+    skills: [sql]
+    level: 2
+    kind: course
+    cost: free
+  - id: kgl-adv-sql
+    title: Advanced SQL
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/advanced-sql
+    skills: [sql]
+    level: 3
+    kind: course
+    cost: free
+  - id: kgl-intro-ml
+    title: Intro to Machine Learning
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/intro-to-machine-learning
+    skills: [ml_fundamentals]
+    level: 2
+    kind: course
+    cost: free
+  - id: kgl-inter-ml
+    title: Intermediate Machine Learning
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/intermediate-machine-learning
+    skills: [ml_fundamentals]
+    level: 3
+    kind: course
+    cost: free
+  - id: kgl-feature-eng
+    title: Feature Engineering
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/feature-engineering
+    skills: [feature_engineering]
+    level: 3
+    kind: course
+    cost: free
+  - id: kgl-deep-learning
+    title: Intro to Deep Learning
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/intro-to-deep-learning
+    skills: [deep_learning]
+    level: 2
+    kind: course
+    cost: free
+  - id: kgl-data-cleaning
+    title: Data Cleaning
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn/data-cleaning
+    skills: [data_modeling, python]
+    level: 2
+    kind: course
+    cost: free

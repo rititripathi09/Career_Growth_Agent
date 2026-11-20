@@ -1,0 +1,16 @@
+SAMEER KULKARNI
+Team Lead, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Delivery planning for over a year; led work on sprint planning and quarterly roadmaps.
+- Strong in Git and code review for over a year; led work on code reviews and branching conventions.
+- Strong in HTML and CSS for over a year; led work on responsive, accessible page layouts.
+- Strong in React for over a year; led work on a React design-system library.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used JavaScript / TypeScript regularly in project work, including TypeScript components for the customer portal.
+- Used People leadership regularly in project work, including 1:1s, feedback and hiring for the team.
+- Used Automated testing regularly in project work, including unit and integration test suites.
+- Completed an introductory online course on Communication and presenting; no project work yet.
+
+SKILLS
+Delivery planning, Git and code review, HTML and CSS, React, Data security basics, JavaScript / TypeScript, People leadership, Automated testing

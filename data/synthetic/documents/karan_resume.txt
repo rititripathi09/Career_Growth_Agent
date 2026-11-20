@@ -1,0 +1,17 @@
+KARAN MEHTA
+Data Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for Workflow orchestration; set team standards and mentored others on scheduled DAGs with retries and alerts.
+- Recognised go-to expert for Python; set team standards and mentored others on data pipelines and automation scripts.
+- Strong in Streaming data for over a year; led work on a Kafka-based event feed.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used SQL regularly in project work, including warehouse queries and reporting views.
+- Completed an introductory online course on CI/CD; no project work yet.
+- Keeps a few legacy Jenkins freestyle jobs running.
+- Completed an introductory online course on Cloud platform (Azure / AWS / GCP); no project work yet.
+- Completed an introductory online course on Communication and presenting; no project work yet.
+- Completed an introductory online course on Data modeling; no project work yet.
+
+SKILLS
+Workflow orchestration, Python, Streaming data, Git and code review, SQL

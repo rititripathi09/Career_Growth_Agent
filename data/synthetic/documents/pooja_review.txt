@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Pooja Desai (synthetic)
+Overall rating: 4.5 / 5
+Strengths: CI/CD, Cloud platform (Azure / AWS / GCP), Infrastructure as code.
+Growth areas: Git and code review, Monitoring and observability, Automated testing.

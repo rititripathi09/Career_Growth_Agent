@@ -1,0 +1,12 @@
+TANVI JOSHI
+Frontend Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Recognised go-to expert for JavaScript / TypeScript; set team standards and mentored others on TypeScript components for the customer portal.
+- Used React regularly in project work, including a React design-system library.
+- Used Automated testing regularly in project work, including unit and integration test suites.
+- Completed an introductory online course on Data security basics; no project work yet.
+- Completed an introductory online course on HTML and CSS; no project work yet.
+
+SKILLS
+JavaScript / TypeScript, React, Automated testing

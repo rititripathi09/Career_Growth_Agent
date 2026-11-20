@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Rahul Tiwari (synthetic)
+Overall rating: 4.7 / 5
+Strengths: Cloud platform (Azure / AWS / GCP), Workflow orchestration, Python.
+Growth areas: CI/CD, Communication and presenting, Data modeling.

@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Karan Mehta (synthetic)
+Overall rating: 3.2 / 5
+Strengths: Workflow orchestration, Python, Streaming data.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Communication and presenting.

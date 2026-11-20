@@ -1,0 +1,18 @@
+ISHITA BOSE
+Frontend Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Git and code review for over a year; led work on code reviews and branching conventions.
+- Strong in HTML and CSS for over a year; led work on responsive, accessible page layouts.
+- Strong in JavaScript / TypeScript for over a year; led work on TypeScript components for the customer portal.
+- Strong in Automated testing for over a year; led work on unit and integration test suites.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used React regularly in project work, including a React design-system library.
+- Maintains an older jQuery admin page.
+- Completed an introductory online course on CI/CD; no project work yet.
+- Keeps a few legacy Jenkins freestyle jobs running.
+- Completed an introductory online course on Cloud platform (Azure / AWS / GCP); no project work yet.
+
+SKILLS
+Git and code review, HTML and CSS, JavaScript / TypeScript, Automated testing, Communication and presenting, Data security basics, React

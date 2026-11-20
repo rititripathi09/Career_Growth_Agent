@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Kavya Menon (synthetic)
+Overall rating: 3.8 / 5
+Strengths: Delivery planning, Infrastructure as code.
+Growth areas: Cloud platform (Azure / AWS / GCP), Communication and presenting, Data security basics.

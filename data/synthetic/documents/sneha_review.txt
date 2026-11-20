@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Sneha Pillai (synthetic)
+Overall rating: 4.3 / 5
+Strengths: Cloud platform (Azure / AWS / GCP), Infrastructure as code.
+Growth areas: CI/CD, Communication and presenting, Containers and Kubernetes.

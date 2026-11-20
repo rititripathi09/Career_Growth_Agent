@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Vikram Rao (synthetic)
+Overall rating: 4.5 / 5
+Strengths: Delivery planning, People leadership.
+Growth areas: Cloud platform (Azure / AWS / GCP), Communication and presenting, Git and code review.

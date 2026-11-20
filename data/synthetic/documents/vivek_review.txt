@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Vivek Nair (synthetic)
+Overall rating: 4.3 / 5
+Strengths: Cloud platform (Azure / AWS / GCP), Infrastructure as code.
+Growth areas: Containers and Kubernetes, Git and code review, Monitoring and observability.

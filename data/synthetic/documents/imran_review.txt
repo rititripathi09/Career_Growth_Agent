@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Imran Khan (synthetic)
+Overall rating: 2.8 / 5
+Strengths: Cloud platform (Azure / AWS / GCP), Containers and Kubernetes, Data security basics.
+Growth areas: Git and code review, Infrastructure as code, Monitoring and observability.

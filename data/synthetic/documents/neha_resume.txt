@@ -1,0 +1,16 @@
+NEHA GUPTA
+Data Engineer, Nimbus Tech (synthetic profile)
+
+EXPERIENCE
+- Strong in Communication and presenting for over a year; led work on monthly demos to stakeholders.
+- Strong in Workflow orchestration for over a year; led work on scheduled DAGs with retries and alerts.
+- Strong in SQL for over a year; led work on warehouse queries and reporting views.
+- Used Cloud platform (Azure / AWS / GCP) regularly in project work, including moving batch jobs to managed cloud services.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Streaming data regularly in project work, including a Kafka-based event feed.
+- Completed an introductory online course on CI/CD; no project work yet.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on Python; no project work yet.
+
+SKILLS
+Communication and presenting, Workflow orchestration, SQL, Cloud platform (Azure / AWS / GCP), Data security basics, Streaming data

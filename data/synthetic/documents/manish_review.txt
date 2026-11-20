@@ -1,0 +1,4 @@
+PERFORMANCE REVIEW: Manish Verma (synthetic)
+Overall rating: 3.9 / 5
+Strengths: steady delivery across the board.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Communication and presenting.
