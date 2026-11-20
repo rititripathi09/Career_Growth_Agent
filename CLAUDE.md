@@ -27,6 +27,14 @@ It runs on a synthetic company, "Nimbus Tech" (27 people, 4 teams, bands B1-B4).
 - Export synthetic dataset: `uv run python scripts/export_dataset.py`
 - Check course links: `uv run python scripts/check_links.py`
 - Secrets: `.streamlit/secrets.toml` (copy from `.example`; git-ignored, never commit or print keys)
+- Check the LLM connection: `uv run python scripts/check_llm.py`
+
+## Model setup
+- Order: Gemini free tier → Groq free tier → local Ollama (`core/llm.py`).
+- Gemini: set `LLM_MODEL` in secrets.toml to a model that answers (`gemini-3.5-flash` worked on 20 Nov 2026;
+  `gemini-flash-latest` gave 503s).
+- Groq: the default is now `openai/gpt-oss-120b`. `llama-3.3-70b-versatile` is retired.
+- Ollama: `llama3.2` (run `ollama serve` first).
 
 ## Map
 - `app.py`: navigation + sidebar persona switcher
@@ -35,6 +43,8 @@ It runs on a synthetic company, "Nimbus Tech" (27 people, 4 teams, bands B1-B4).
   db, seed, synthetic, taxonomy, ui
 - `data/`: taxonomy.yaml, catalog.yaml, sample_docs/, synthetic/ (CSVs + documents + ground truth)
 - `notebooks/`: Colab notebooks (extraction playground; dataset + extraction accuracy)
+- `tests/`: test_core (privacy, scoring), test_seed (demo-story data facts), test_pages (page smoke tests)
+- `scripts/`: seed, export_dataset, check_links, check_llm (LLM connection smoke test; never prints keys)
 
 ## Sprint plan (story IDs match the story board)
 - **Sprint 1 (23-28 Nov):** Day 1 setup + US-03 persona switcher · Day 2 US-01 mock org, US-02 taxonomy ·

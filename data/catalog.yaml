@@ -104,6 +104,22 @@ items:
     level: 2
     kind: path
     cost: free
+  - id: msl-communicate-markdown
+    title: Communicate effectively on GitHub using Markdown
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/
+    skills: [communication]
+    level: 2
+    kind: course
+    cost: free
+  - id: msl-present-stakeholders
+    title: Present Business Applications designs to stakeholders
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/modules/present-business-applications-designs/
+    skills: [communication]
+    level: 3
+    kind: course
+    cost: free
   - id: msl-cert-data-engineer
     title: Microsoft data engineering certification (exam)
     platform: Microsoft Learn
@@ -183,6 +199,14 @@ items:
     platform: freeCodeCamp
     url: https://www.freecodecamp.org/learn/quality-assurance/
     skills: [testing]
+    level: 2
+    kind: certification
+    cost: free
+  - id: fcc-english-devs
+    title: B1 English for Developers
+    platform: freeCodeCamp
+    url: https://www.freecodecamp.org/learn/b1-english-for-developers/
+    skills: [communication]
     level: 2
     kind: certification
     cost: free
