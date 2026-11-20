@@ -81,6 +81,11 @@ class Access:
         self.conn.commit()
 
     def add_document(self, kind: str, text: str) -> None:
+        """Save a source document for the viewer. An identical re-upload is not stored twice."""
+        if self.conn.execute(
+            "SELECT 1 FROM document WHERE employee_id=? AND kind=? AND text=?", (self.viewer["id"], kind, text)
+        ).fetchone():
+            return
         self.conn.execute(
             "INSERT INTO document(employee_id, kind, text) VALUES (?,?,?)",
             (self.viewer["id"], kind, text),

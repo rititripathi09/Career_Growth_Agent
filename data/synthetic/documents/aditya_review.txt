@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Aditya Rao (synthetic)
-Overall rating: 3.8 / 5
-Strengths: Cloud platform (Azure / AWS / GCP).
-Growth areas: CI/CD, Monitoring and observability, Automated testing.
+Overall rating: 3.2 / 5
+Strengths: steady delivery across the board.
+Growth areas: CI/CD, Automated testing.

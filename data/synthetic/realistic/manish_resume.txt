@@ -1,0 +1,16 @@
+MANISH VERMA
+Frontend Engineer at Nimbus Tech
+
+SUMMARY
+Frontend engineer working with React and automated testing in my current role, while keeping the lights on for some legacy jQuery and Jenkins tools. Eager to bring in best practices from courses I've taken on CI/CD, Git, and web fundamentals.
+
+EXPERIENCE
+Frontend Engineer | Nimbus Tech | Mar 2022 – Present
+Part of a small product team building out our main web app alongside a backend dev and a designer. 
+- Build and ship features using React regularly in project work, which included helping build out our internal React design-system library.
+- Handle automated testing regularly in project work, writing unit and integration test suites for our components.
+- Keep a few legacy Jenkins freestyle jobs running when deployments act up.
+- Still maintain an older jQuery admin page that we haven't migrated yet.
+
+TOOLS
+React, Automated testing, Jenkins (freestyle), jQuery, Git

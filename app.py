@@ -3,6 +3,7 @@ import streamlit as st
 
 from core import db
 from core.access import Access
+from core.seed import seed
 from core.ui import get_conn, tax
 
 st.set_page_config(page_title="Career Growth Agent", page_icon=":material/trending_up:", layout="wide")
@@ -43,5 +44,17 @@ with st.sidebar:
         st.caption("Team views are aggregates over 5 or more people. Names appear only when someone opts in.")
     else:
         st.caption("Private to you. Your lead and manager see only team-level trends, never your documents or chats.")
+
+    with st.popover("Reset demo data", icon=":material/restart_alt:"):
+        st.write("Erase all uploads, chats and changes and reload the Nimbus Tech demo data? "
+                 "Saved AI answers are kept, so a rehearsed upload stays fast.")
+        if st.button("Yes, reset the demo", type="primary"):
+            seed(conn, keep_cache=True)
+            for key in [k for k in st.session_state if k.startswith("upload_results_")]:
+                del st.session_state[key]
+            st.session_state["just_reset"] = True
+            st.rerun()
+    if st.session_state.pop("just_reset", False):
+        st.toast("Demo data reset.", icon=":material/check:")
 
 pg.run()

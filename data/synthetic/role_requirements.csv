@@ -10,6 +10,7 @@ data_engineer,Data Engineer,data_modeling,2,mandatory
 data_engineer,Data Engineer,streaming,2,good_to_have
 data_engineer,Data Engineer,testing,2,good_to_have
 data_engineer,Data Engineer,ci_cd,1,good_to_have
+data_engineer,Data Engineer,generative_ai,2,good_to_have
 cloud_engineer,Cloud Engineer,data_security,2,org_wide
 cloud_engineer,Cloud Engineer,git,2,org_wide
 cloud_engineer,Cloud Engineer,communication,2,org_wide
@@ -39,11 +40,13 @@ ml_engineer,ML Engineer,mlops,2,mandatory
 ml_engineer,ML Engineer,sql,2,mandatory
 ml_engineer,ML Engineer,deep_learning,2,good_to_have
 ml_engineer,ML Engineer,cloud_platform,2,good_to_have
+ml_engineer,ML Engineer,generative_ai,2,good_to_have
 team_lead,Team Lead,data_security,2,org_wide
 team_lead,Team Lead,git,2,org_wide
 team_lead,Team Lead,communication,3,mandatory
 team_lead,Team Lead,people_leadership,2,mandatory
 team_lead,Team Lead,delivery_planning,2,mandatory
+team_lead,Team Lead,system_design,2,mandatory
 team_lead,Team Lead,testing,2,good_to_have
 team_lead,Team Lead,ci_cd,2,good_to_have
 engineering_manager,Engineering Manager,data_security,2,org_wide
@@ -51,4 +54,5 @@ engineering_manager,Engineering Manager,git,2,org_wide
 engineering_manager,Engineering Manager,communication,3,mandatory
 engineering_manager,Engineering Manager,people_leadership,3,mandatory
 engineering_manager,Engineering Manager,delivery_planning,3,mandatory
+engineering_manager,Engineering Manager,system_design,3,mandatory
 engineering_manager,Engineering Manager,cloud_platform,1,good_to_have

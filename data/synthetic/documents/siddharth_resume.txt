@@ -9,6 +9,7 @@ EXPERIENCE
 - Used Feature engineering regularly in project work, including feature pipelines for model training.
 - Used Git and code review regularly in project work, including code reviews and branching conventions.
 - Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on Generative AI / LLM apps; no project work yet.
 - Completed an introductory online course on SQL; no project work yet.
 
 SKILLS

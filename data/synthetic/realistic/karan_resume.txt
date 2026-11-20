@@ -1,0 +1,24 @@
+KARAN MEHTA
+
+Data Engineer at Nimbus Tech. Basically I handle our pipelines, automation, and whatever data lands on my desk.
+
+EXPERIENCE
+
+Nimbus Tech — Data Engineer
+Dates: 2021 – Present
+Team: Working alongside 4 other data folks and a couple backend devs handling our core processing pipelines.
+
+- I'm the go-to person for Workflow orchestration around here. Ended up setting our team standards and mentoring everyone on scheduled DAGs with retries and alerts, plus I'm basically the same go-to expert for Python, helping out with all our data pipelines and automation scripts.
+- Led our work on Streaming data for over a year now, specifically building out a Kafka-based event feed.
+- Used Generative AI / LLM apps regularly in project work, including an LLM-based assistant with retrieval over internal docs.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used SQL regularly in project work, including warehouse queries and reporting views.
+- Oh and I still keep a few legacy Jenkins freestyle jobs running just because.
+
+Courses & Training:
+- Introductory online course on CI/CD (no project work yet)
+- Introductory online course on Cloud platform (Azure / AWS / GCP) (no project work yet)
+- Introductory online course on Communication and presenting (no project work yet)
+- Introductory online course on Data modeling (no project work yet)
+
+Tools: Workflow orchestration, Python, Streaming data, Generative AI / LLM apps, Git and code review, SQL

@@ -35,8 +35,10 @@ def main() -> None:
     tax, cat = load_taxonomy(), load_catalog()
     conn = db.connect(":memory:")
     seed(conn)
-    if OUT.exists():
-        shutil.rmtree(OUT)
+    # Replace only what this script writes; keep extras such as realistic/ (scripts/eval_realistic.py).
+    shutil.rmtree(OUT / "documents", ignore_errors=True)
+    for old in OUT.glob("*.csv"):
+        old.unlink()
     (OUT / "documents").mkdir(parents=True)
 
     q = lambda sql: [dict(r) for r in conn.execute(sql)]  # noqa: E731

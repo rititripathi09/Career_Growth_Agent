@@ -6,6 +6,7 @@ EXPERIENCE
 - Strong in Delivery planning for over a year; led work on sprint planning and quarterly roadmaps.
 - Strong in People leadership for over a year; led work on 1:1s, feedback and hiring for the team.
 - Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used System design regularly in project work, including design reviews for scalable services.
 
 SKILLS
-Communication and presenting, Delivery planning, People leadership, Data security basics
+Communication and presenting, Delivery planning, People leadership, Data security basics, System design

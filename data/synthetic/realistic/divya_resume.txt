@@ -1,0 +1,19 @@
+DIVYA IYER
+Data Engineer, Nimbus Tech
+
+SUMMARY
+Data Engineer with over a year of hands-on experience building and maintaining data pipelines, warehouse queries, and scheduled workflows. Focuses on robust Python and SQL development alongside stakeholder communication and basic data governance.
+
+EXPERIENCE
+Data Engineer, Nimbus Tech (Jan 2022 - Present)
+Working on the core data engineering team alongside three other engineers to support reporting and analytics infrastructure.
+- Led work on scheduled DAGs with retries and alerts, owning the workflow orchestration for over a year, and built Python data pipelines and automation scripts.
+- Wrote complex warehouse queries and reporting views using SQL.
+- Regularly presented monthly demos to stakeholders, handling communication for our project work.
+- Designed star-schema models for finance reporting as part of our regular data modeling tasks.
+- Handled access reviews and PII masking for data security basics.
+- Wrote unit and integration test suites for automated testing.
+
+TOOLS
+Workflow orchestration, Python, SQL, Communication and presenting, Data modeling, Data security basics, Automated testing
+Courses completed (no project work yet): CI/CD, Cloud platform (Azure / AWS / GCP), Git and code review, Streaming data

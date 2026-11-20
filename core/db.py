@@ -56,10 +56,11 @@ def connect(path: str | Path = DB_PATH) -> sqlite3.Connection:
     return conn
 
 
-def reset(conn: sqlite3.Connection) -> None:
+def reset(conn: sqlite3.Connection, keep_cache: bool = False) -> None:
+    """Empty every table. keep_cache=True keeps saved AI answers (no personal data, saves free quota)."""
     tables = [r["name"] for r in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")]
     for t in tables:
-        if t != "sqlite_sequence":
+        if t != "sqlite_sequence" and not (keep_cache and t == "llm_cache"):
             conn.execute(f"DELETE FROM {t}")
     conn.commit()
 

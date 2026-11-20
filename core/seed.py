@@ -36,7 +36,7 @@ TEAMS = [
 PRIYA_SKILLS = {
     "python": 3, "sql": 3, "data_modeling": 2, "cloud_platform": 1, "orchestration": 1,
     "testing": 2, "ci_cd": 1, "data_security": 2, "git": 2, "communication": 2,
-    "ml_fundamentals": 2, "feature_engineering": 2, "mlops": 1,
+    "ml_fundamentals": 2, "feature_engineering": 2, "mlops": 1, "generative_ai": 1,
 }
 INTERESTS = {  # people exploring another role (feeds the mobility pipeline)
     "priya": {"ml_engineer": 0.8},
@@ -49,17 +49,26 @@ SHARES_READINESS = {"rahul", "sneha"}
 EVIDENCE_KINDS = ["resume", "review", "self_eval", "github", "transcript"]
 
 
+# Skills added after Day 2 draw from their own random stream, so adding them did not change
+# anyone's existing levels (the demo numbers stay the same).
+LATER_SKILLS = {"generative_ai", "system_design"}
+_later_rng = random.Random(7)
+
+
 def _skills_for(role_id: str, tax, rng: random.Random) -> dict[str, int]:
     out = {}
     for r in tax.requirements(role_id):
-        out[r.skill] = max(0, min(4, r.level + rng.choice([-2, -1, -1, 0, 0, 0, 1])))
+        pick = (_later_rng if r.skill in LATER_SKILLS else rng).choice([-2, -1, -1, 0, 0, 0, 1])
+        out[r.skill] = max(0, min(4, r.level + pick))
     return out
 
 
-def seed(conn) -> None:
+def seed(conn, keep_cache: bool = False) -> None:
+    global _later_rng
     tax, catalog = load_taxonomy(), load_catalog()
     rng = random.Random(42)
-    db.reset(conn)
+    _later_rng = random.Random(7)  # reset each run so seeding stays deterministic
+    db.reset(conn, keep_cache=keep_cache)
 
     def add(emp_id, name, band, role, team, manager, rating, skills):
         conn.execute(

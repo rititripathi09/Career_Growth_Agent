@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Neha Gupta (synthetic)
 Overall rating: 3.2 / 5
-Strengths: Communication and presenting, Workflow orchestration, SQL.
+Strengths: Communication and presenting, Generative AI / LLM apps, Workflow orchestration.
 Growth areas: CI/CD, Data modeling, Git and code review.

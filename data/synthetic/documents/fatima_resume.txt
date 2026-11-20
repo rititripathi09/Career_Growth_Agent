@@ -7,10 +7,11 @@ EXPERIENCE
 - Used Data security basics regularly in project work, including access reviews and PII masking.
 - Used Deep learning regularly in project work, including a PyTorch image classifier.
 - Used Feature engineering regularly in project work, including feature pipelines for model training.
+- Used Generative AI / LLM apps regularly in project work, including an LLM-based assistant with retrieval over internal docs.
 - Used Git and code review regularly in project work, including code reviews and branching conventions.
 - Used MLOps regularly in project work, including model versioning and automated retraining.
 - Used SQL regularly in project work, including warehouse queries and reporting views.
 - Completed an introductory online course on Machine learning fundamentals; no project work yet.
 
 SKILLS
-Python, Cloud platform (Azure / AWS / GCP), Data security basics, Deep learning, Feature engineering, Git and code review, MLOps, SQL
+Python, Cloud platform (Azure / AWS / GCP), Data security basics, Deep learning, Feature engineering, Generative AI / LLM apps, Git and code review, MLOps, SQL

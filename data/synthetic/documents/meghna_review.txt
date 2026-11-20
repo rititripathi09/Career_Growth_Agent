@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Meghna Das (synthetic)
-Overall rating: 3.3 / 5
+Overall rating: 3.8 / 5
 Strengths: steady delivery across the board.
-Growth areas: Communication and presenting, Data security basics, Deep learning.
+Growth areas: Feature engineering, Generative AI / LLM apps, MLOps.

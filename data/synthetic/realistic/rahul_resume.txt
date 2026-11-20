@@ -1,0 +1,21 @@
+RAHUL TIWARI
+Data Engineer at Nimbus Tech
+
+Hi, I'm Rahul. I spend my days working with data pipelines, cloud services, and keeping our warehouses running smoothly at Nimbus Tech. Lately I've been really focused on migrating batch jobs over to managed cloud stuff and making sure our scheduled DAGs actually alert us when they fail. 
+
+EXPERIENCE
+
+Nimbus Tech — Data Engineer
+June 2022 – Present
+Working on a tight-knit data engineering squad handling backend ingestion and warehouse architecture. 
+- Python: I've sort of become the go-to person here. I set our team standards for writing data pipelines and automation scripts, and I spend a good chunk of time mentoring others on best practices.
+- SQL: Same deal as Python—everyone comes to me for warehouse queries and reporting views, and I helped define how we write and structure them.
+- Got deep into Cloud platform (Azure / AWS / GCP) over the last year or so, taking charge of moving our clunky old batch jobs across to managed cloud services.
+- Workflow orchestration: Led the charge here too for over a year, setting up scheduled DAGs complete with proper retries and alerts.
+- Handling day-to-day Data security basics in our projects, specifically doing access reviews and masking PII.
+- Writing Automated testing regularly, putting together unit and integration test suites as part of the normal workflow.
+- Did an introductory online course on Communication and presenting (haven't really applied this on a project yet).
+- Completed an introductory online course on Git and code review (no project work yet).
+
+Tools
+Python, SQL, Cloud platform (Azure / AWS / GCP), Workflow orchestration, Data security basics, Automated testing

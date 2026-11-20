@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Rohan Bhatia (synthetic)
 Overall rating: 4.1 / 5
-Strengths: steady delivery across the board.
+Strengths: System design.
 Growth areas: Cloud platform (Azure / AWS / GCP), Communication and presenting, Data security basics.

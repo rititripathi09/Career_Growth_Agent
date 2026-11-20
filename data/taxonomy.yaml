@@ -24,10 +24,12 @@ skills:
   react: {name: React, category: Frontend}
   html_css: {name: HTML and CSS, category: Frontend}
   testing: {name: Automated testing, category: Engineering}
+  system_design: {name: System design, category: Engineering}
   ml_fundamentals: {name: Machine learning fundamentals, category: ML}
   feature_engineering: {name: Feature engineering, category: ML}
   deep_learning: {name: Deep learning, category: ML}
   mlops: {name: MLOps, category: ML}
+  generative_ai: {name: Generative AI / LLM apps, category: ML}
   data_security: {name: Data security basics, category: Org-wide}
   git: {name: Git and code review, category: Org-wide}
   communication: {name: Communication and presenting, category: Org-wide}
@@ -44,7 +46,7 @@ roles:
   data_engineer:
     name: Data Engineer
     mandatory: {python: 3, sql: 3, cloud_platform: 3, orchestration: 3, data_modeling: 2}
-    good_to_have: {streaming: 2, testing: 2, ci_cd: 1}
+    good_to_have: {streaming: 2, testing: 2, ci_cd: 1, generative_ai: 2}
   cloud_engineer:
     name: Cloud Engineer
     mandatory: {cloud_platform: 3, containers: 3, infrastructure_as_code: 3, ci_cd: 2, monitoring: 2}
@@ -56,14 +58,14 @@ roles:
   ml_engineer:
     name: ML Engineer
     mandatory: {python: 3, ml_fundamentals: 3, feature_engineering: 2, mlops: 2, sql: 2}
-    good_to_have: {deep_learning: 2, cloud_platform: 2}
+    good_to_have: {deep_learning: 2, cloud_platform: 2, generative_ai: 2}
   team_lead:
     name: Team Lead
-    mandatory: {people_leadership: 2, delivery_planning: 2, communication: 3}
+    mandatory: {people_leadership: 2, delivery_planning: 2, communication: 3, system_design: 2}
     good_to_have: {testing: 2, ci_cd: 2}
   engineering_manager:
     name: Engineering Manager
-    mandatory: {people_leadership: 3, delivery_planning: 3, communication: 3}
+    mandatory: {people_leadership: 3, delivery_planning: 3, communication: 3, system_design: 3}
     good_to_have: {cloud_platform: 1}
 
 # Tools the tech-stack check flags as dated, with a modern alternative.

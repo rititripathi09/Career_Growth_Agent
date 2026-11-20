@@ -1,0 +1,19 @@
+POOJA DESAI
+Cloud Engineer, Nimbus Tech
+
+SUMMARY
+Cloud Engineer with hands-on experience building out our infrastructure and deployment pipelines. Focused on moving things to the cloud and automating our daily workflows.
+
+EXPERIENCE
+Cloud Engineer, Nimbus Tech (2022 – Present)
+Part of the core infrastructure team working alongside four other engineers to modernize our deployment setup and cloud footprint.
+- Led the work on our build-and-deploy pipelines using GitHub Actions, which we've relied on for over a year now for CI/CD.
+- Spearheaded our cloud migration efforts for over a year, moving our old batch jobs over to managed services across Azure, AWS, and GCP.
+- Wrote Terraform modules for shared environments, taking ownership of our infrastructure as code for over a year.
+- Handled Docker images and Kubernetes deployments in project work.
+- Wrote Python automation scripts and data pipelines.
+- Took care of data security basics like access reviews and PII masking.
+- Handled project communication and presenting, including running those monthly stakeholder demos.
+
+TOOLS
+CI/CD, Azure, AWS, GCP, Terraform, GitHub Actions, Docker, Kubernetes, Python, Monitoring and observability (coursework)

@@ -13,6 +13,10 @@ msl-git,Introduction to Git and GitHub (search results),Microsoft Learn,https://
 msl-leadership,Lead and develop teams (search results),Microsoft Learn,https://learn.microsoft.com/en-us/training/browse/?terms=leadership,people_leadership;delivery_planning,2,path,free
 msl-communicate-markdown,Communicate effectively on GitHub using Markdown,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/,communication,2,course,free
 msl-present-stakeholders,Present Business Applications designs to stakeholders,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/present-business-applications-designs/,communication,3,course,free
+msl-genai-intro,Introduction to generative AI and agents,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/,generative_ai,1,course,free
+msl-genai-apps,Develop generative AI apps on Microsoft Foundry,Microsoft Learn,https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/,generative_ai,3,path,free
+msl-app-architecture,Design an application architecture,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/design-application-architecture/,system_design,2,course,free
+msl-well-architected,Build great solutions with the Azure Well-Architected Framework,Microsoft Learn,https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/,system_design,3,path,free
 msl-cert-data-engineer,Microsoft data engineering certification (exam),Microsoft Learn,https://learn.microsoft.com/en-us/credentials/browse/?terms=data%20engineer,cloud_platform;orchestration,3,certification,exam fee
 fcc-python,Scientific Computing with Python,freeCodeCamp,https://www.freecodecamp.org/learn/scientific-computing-with-python/,python,2,certification,free
 fcc-data-analysis,Data Analysis with Python,freeCodeCamp,https://www.freecodecamp.org/learn/data-analysis-with-python/,python;feature_engineering,3,certification,free
@@ -32,3 +36,4 @@ kgl-inter-ml,Intermediate Machine Learning,Kaggle Learn,https://www.kaggle.com/l
 kgl-feature-eng,Feature Engineering,Kaggle Learn,https://www.kaggle.com/learn/feature-engineering,feature_engineering,3,course,free
 kgl-deep-learning,Intro to Deep Learning,Kaggle Learn,https://www.kaggle.com/learn/intro-to-deep-learning,deep_learning,2,course,free
 kgl-data-cleaning,Data Cleaning,Kaggle Learn,https://www.kaggle.com/learn/data-cleaning,data_modeling;python,2,course,free
+kgl-genai-intensive,5-Day Gen AI Intensive Course with Google,Kaggle Learn,https://www.kaggle.com/learn-guide/5-day-genai,generative_ai,2,course,free

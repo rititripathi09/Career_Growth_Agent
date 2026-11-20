@@ -2,19 +2,18 @@ KAVYA MENON
 Team Lead, Nimbus Tech (synthetic profile)
 
 EXPERIENCE
-- Strong in Delivery planning for over a year; led work on sprint planning and quarterly roadmaps.
+- Strong in Containers and Kubernetes for over a year; led work on Docker images and Kubernetes deployments.
 - Strong in Infrastructure as code for over a year; led work on Terraform modules for shared environments.
-- Used CI/CD regularly in project work, including build-and-deploy pipelines in GitHub Actions.
+- Strong in People leadership for over a year; led work on 1:1s, feedback and hiring for the team.
+- Used Cloud platform (Azure / AWS / GCP) regularly in project work, including moving batch jobs to managed cloud services.
+- Used Data security basics regularly in project work, including access reviews and PII masking.
+- Used Python regularly in project work, including data pipelines and automation scripts.
+- Completed an introductory online course on CI/CD; no project work yet.
 - Keeps a few legacy Jenkins freestyle jobs running.
-- Used Containers and Kubernetes regularly in project work, including Docker images and Kubernetes deployments.
-- Used Git and code review regularly in project work, including code reviews and branching conventions.
-- Completed an introductory online course on Cloud platform (Azure / AWS / GCP); no project work yet.
-- Completed an introductory online course on Communication and presenting; no project work yet.
-- Completed an introductory online course on Data security basics; no project work yet.
+- Completed an introductory online course on Git and code review; no project work yet.
 - Completed an introductory online course on Monitoring and observability; no project work yet.
-- Completed an introductory online course on People leadership; no project work yet.
-- Completed an introductory online course on Python; no project work yet.
+- Completed an introductory online course on System design; no project work yet.
 - Completed an introductory online course on Automated testing; no project work yet.
 
 SKILLS
-Delivery planning, Infrastructure as code, CI/CD, Containers and Kubernetes, Git and code review
+Containers and Kubernetes, Infrastructure as code, People leadership, Cloud platform (Azure / AWS / GCP), Data security basics, Python

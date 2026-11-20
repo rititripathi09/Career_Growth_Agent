@@ -28,11 +28,14 @@ It runs on a synthetic company, "Nimbus Tech" (27 people, 4 teams, bands B1-B4).
 - Check course links: `uv run python scripts/check_links.py`
 - Secrets: `.streamlit/secrets.toml` (copy from `.example`; git-ignored, never commit or print keys)
 - Check the LLM connection: `uv run python scripts/check_llm.py`
+- Live extraction check on Priya's resume (time + skills): `uv run python scripts/check_extract.py`
+- Realistic-resume accuracy eval: `uv run python scripts/eval_realistic.py` (`--fresh` to rewrite again)
 
 ## Model setup
 - Order: Gemini free tier → Groq free tier → local Ollama (`core/llm.py`).
-- Gemini: set `LLM_MODEL` in secrets.toml to a model that answers (`gemini-3.5-flash` worked on 20 Nov 2026;
-  `gemini-flash-latest` gave 503s).
+- Gemini: `LLM_MODEL = "gemini-flash-lite-latest"` in secrets.toml (~4 s per resume). `gemini-3.5-flash` took
+  55-80 s per call on 20 Nov 2026; `gemini-flash-latest` gave 503s.
+- Timeout is 25 s with no retry, so a slow provider hands over to the fallback quickly.
 - Groq: the default is now `openai/gpt-oss-120b`. `llama-3.3-70b-versatile` is retired.
 - Ollama: `llama3.2` (run `ollama serve` first).
 
@@ -43,8 +46,10 @@ It runs on a synthetic company, "Nimbus Tech" (27 people, 4 teams, bands B1-B4).
   db, seed, synthetic, taxonomy, ui
 - `data/`: taxonomy.yaml, catalog.yaml, sample_docs/, synthetic/ (CSVs + documents + ground truth)
 - `notebooks/`: Colab notebooks (extraction playground; dataset + extraction accuracy)
-- `tests/`: test_core (privacy, scoring), test_seed (demo-story data facts), test_pages (page smoke tests)
-- `scripts/`: seed, export_dataset, check_links, check_llm (LLM connection smoke test; never prints keys)
+- `tests/`: test_core (privacy, scoring), test_seed (demo-story data facts), test_upload (US-04 pipeline,
+  mocked AI), test_pages (page smoke tests)
+- `scripts/`: seed, export_dataset, check_links, check_llm (LLM connection smoke test; never prints keys),
+  check_extract (live US-04 check), eval_realistic (messy-resume accuracy), make_notebook* (build the notebooks)
 
 ## Sprint plan (story IDs match the story board)
 - **Sprint 1 (23-28 Nov):** Day 1 setup + US-03 persona switcher · Day 2 US-01 mock org, US-02 taxonomy ·

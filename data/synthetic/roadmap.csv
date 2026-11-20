@@ -1,10 +1,10 @@
 employee_id,horizon,title,url,done
 aditya,30,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,1
 aditya,30,Apply CI/CD in one real task and show it at a team demo,,1
-aditya,60,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,0
-aditya,60,Apply Containers and Kubernetes in one real task and show it at a team demo,,0
+aditya,60,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,0
+aditya,60,Apply Cloud platform (Azure / AWS / GCP) in one real task and show it at a team demo,,0
+aditya,90,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,0
 aditya,90,Infrastructure as code with Bicep (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=bicep%20infrastructure%20as%20code,0
-aditya,90,Monitor cloud applications (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20monitor,0
 aditya,90,Review progress with the AI mentor and update your sources,,0
 arnav,30,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,1
 arnav,30,Apply Automated testing in one real task and show it at a team demo,,0
@@ -17,7 +17,8 @@ divya,30,Get started with data engineering on Azure (Microsoft Learn),https://le
 divya,30,Apply Cloud platform (Azure / AWS / GCP) in one real task and show it at a team demo,,1
 divya,60,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
 divya,60,Apply Git and code review in one real task and show it at a team demo,,1
-divya,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,1
+divya,90,5-Day Gen AI Intensive Course with Google (Kaggle Learn),https://www.kaggle.com/learn-guide/5-day-genai,1
+divya,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,0
 divya,90,Review progress with the AI mentor and update your sources,,0
 fatima,30,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
 fatima,30,Apply Machine learning fundamentals in one real task and show it at a team demo,,1
@@ -58,13 +59,13 @@ manish,90,Front End Development Libraries (React) (freeCodeCamp),https://www.fre
 manish,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,0
 manish,90,Communicate effectively on GitHub using Markdown (Microsoft Learn),https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/,0
 manish,90,Review progress with the AI mentor and update your sources,,0
-meghna,30,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
-meghna,30,Apply Machine learning fundamentals in one real task and show it at a team demo,,1
-meghna,60,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,1
-meghna,60,Apply Python in one real task and show it at a team demo,,1
-meghna,90,Communicate effectively on GitHub using Markdown (Microsoft Learn),https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/,1
-meghna,90,"Security, compliance and identity fundamentals (search results) (Microsoft Learn)",https://learn.microsoft.com/en-us/training/browse/?terms=security%20compliance%20identity%20fundamentals,1
-meghna,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+meghna,30,Relational Database (freeCodeCamp),https://www.freecodecamp.org/learn/relational-database/,1
+meghna,30,Apply SQL in one real task and show it at a team demo,,1
+meghna,60,Feature Engineering (Kaggle Learn),https://www.kaggle.com/learn/feature-engineering,1
+meghna,60,Apply Feature engineering in one real task and show it at a team demo,,1
+meghna,90,Machine Learning with Python (freeCodeCamp),https://www.freecodecamp.org/learn/machine-learning-with-python/,1
+meghna,90,Train and deploy models with Azure Machine Learning (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=azure%20machine%20learning%20mlops,1
+meghna,90,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,1
 meghna,90,Review progress with the AI mentor and update your sources,,0
 neha,30,Relational Database (freeCodeCamp),https://www.freecodecamp.org/learn/relational-database/,1
 neha,30,Apply Data modeling in one real task and show it at a team demo,,0
@@ -80,7 +81,7 @@ nikhil,60,Train and deploy models with Azure Machine Learning (search results) (
 nikhil,60,Apply MLOps in one real task and show it at a team demo,,0
 nikhil,90,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.org/learn/data-analysis-with-python/,0
 nikhil,90,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,0
-nikhil,90,Intro to Deep Learning (Kaggle Learn),https://www.kaggle.com/learn/intro-to-deep-learning,0
+nikhil,90,5-Day Gen AI Intensive Course with Google (Kaggle Learn),https://www.kaggle.com/learn-guide/5-day-genai,0
 nikhil,90,Review progress with the AI mentor and update your sources,,0
 pooja,30,Containers and Kubernetes on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=kubernetes%20containers,1
 pooja,30,Apply Containers and Kubernetes in one real task and show it at a team demo,,1
@@ -94,14 +95,15 @@ priya,30,Apply Cloud platform (Azure / AWS / GCP) in one real task and show it a
 priya,60,Data integration pipelines with Azure Data Factory (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=data%20factory%20pipelines,0
 priya,60,Apply Workflow orchestration in one real task and show it at a team demo,,0
 priya,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,0
+priya,90,5-Day Gen AI Intensive Course with Google (Kaggle Learn),https://www.kaggle.com/learn-guide/5-day-genai,0
 priya,90,Review progress with the AI mentor and update your sources,,0
 rahul,30,Relational Database (freeCodeCamp),https://www.freecodecamp.org/learn/relational-database/,1
 rahul,30,Apply Data modeling in one real task and show it at a team demo,,1
 rahul,60,Communicate effectively on GitHub using Markdown (Microsoft Learn),https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/,1
 rahul,60,Apply Communication and presenting in one real task and show it at a team demo,,1
 rahul,90,Introduction to Git and GitHub (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=introduction%20to%20git,1
+rahul,90,5-Day Gen AI Intensive Course with Google (Kaggle Learn),https://www.kaggle.com/learn-guide/5-day-genai,0
 rahul,90,Real-time streaming on Azure (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=stream%20analytics%20event%20hubs,0
-rahul,90,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,0
 rahul,90,Review progress with the AI mentor and update your sources,,0
 riya,30,Quality Assurance (freeCodeCamp),https://www.freecodecamp.org/learn/quality-assurance/,1
 riya,30,Apply Automated testing in one real task and show it at a team demo,,1
@@ -117,6 +119,7 @@ siddharth,60,Data Analysis with Python (freeCodeCamp),https://www.freecodecamp.o
 siddharth,60,Apply Python in one real task and show it at a team demo,,1
 siddharth,90,Intro to SQL (Kaggle Learn),https://www.kaggle.com/learn/intro-to-sql,1
 siddharth,90,Get started with data engineering on Azure (Microsoft Learn),https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/,1
+siddharth,90,5-Day Gen AI Intensive Course with Google (Kaggle Learn),https://www.kaggle.com/learn-guide/5-day-genai,1
 siddharth,90,Review progress with the AI mentor and update your sources,,1
 sneha,30,CI/CD with Azure DevOps and GitHub Actions (search results) (Microsoft Learn),https://learn.microsoft.com/en-us/training/browse/?terms=github%20actions%20ci%20cd,1
 sneha,30,Apply CI/CD in one real task and show it at a team demo,,1

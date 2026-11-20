@@ -120,6 +120,38 @@ items:
     level: 3
     kind: course
     cost: free
+  - id: msl-genai-intro
+    title: Introduction to generative AI and agents
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/
+    skills: [generative_ai]
+    level: 1
+    kind: course
+    cost: free
+  - id: msl-genai-apps
+    title: Develop generative AI apps on Microsoft Foundry
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
+    skills: [generative_ai]
+    level: 3
+    kind: path
+    cost: free
+  - id: msl-app-architecture
+    title: Design an application architecture
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/modules/design-application-architecture/
+    skills: [system_design]
+    level: 2
+    kind: course
+    cost: free
+  - id: msl-well-architected
+    title: Build great solutions with the Azure Well-Architected Framework
+    platform: Microsoft Learn
+    url: https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/
+    skills: [system_design]
+    level: 3
+    kind: path
+    cost: free
   - id: msl-cert-data-engineer
     title: Microsoft data engineering certification (exam)
     platform: Microsoft Learn
@@ -273,6 +305,14 @@ items:
     platform: Kaggle Learn
     url: https://www.kaggle.com/learn/data-cleaning
     skills: [data_modeling, python]
+    level: 2
+    kind: course
+    cost: free
+  - id: kgl-genai-intensive
+    title: 5-Day Gen AI Intensive Course with Google
+    platform: Kaggle Learn
+    url: https://www.kaggle.com/learn-guide/5-day-genai
+    skills: [generative_ai]
     level: 2
     kind: course
     cost: free

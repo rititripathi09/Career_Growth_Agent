@@ -29,6 +29,8 @@ EXAMPLES = {
     "feature_engineering": "feature pipelines for model training",
     "deep_learning": "a PyTorch image classifier",
     "mlops": "model versioning and automated retraining",
+    "generative_ai": "an LLM-based assistant with retrieval over internal docs",
+    "system_design": "design reviews for scalable services",
     "data_security": "access reviews and PII masking",
     "git": "code reviews and branching conventions",
     "communication": "monthly demos to stakeholders",

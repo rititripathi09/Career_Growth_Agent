@@ -1,0 +1,22 @@
+FATIMA SHEIKH
+ML Engineer, Nimbus Tech
+
+SUMMARY
+ML Engineer with experience building data pipelines, cloud services, and LLM apps. Solid background in Python, MLOps, and deep learning, plus an ongoing interest in core ML fundamentals.
+
+EXPERIENCE
+Nimbus Tech
+ML Engineer (2022 – Present)
+Worked with a small engineering team to modernise our infrastructure and ML capabilities. 
+
+- Took charge of our Python development, leading the work on automation scripts and data pipelines.
+- Handled day-to-day cloud tasks across Azure, AWS, and GCP, which included moving our old batch jobs over to managed cloud services.
+- Built a PyTorch image classifier and helped design feature pipelines for model training.
+- Developed an LLM-based assistant that runs retrieval over internal docs, alongside regular work on generative AI apps.
+- Maintained our MLOps setup, covering automated retraining and model versioning, while also writing regular SQL warehouse queries and reporting views.
+- Managed routine Git workflows, branching conventions, and code reviews.
+- Looked after data security basics in projects, including PII masking and access reviews.
+- Completed an introductory online course on Machine learning fundamentals (no project work yet).
+
+TOOLS
+Python, Cloud platform (Azure / AWS / GCP), Data security basics, Deep learning, Feature engineering, Generative AI / LLM apps, Git and code review, MLOps, SQL

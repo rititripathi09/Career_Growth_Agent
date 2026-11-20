@@ -23,7 +23,7 @@ PROVIDERS = {
     "gemini": {
         "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
         "key_env": "GEMINI_API_KEY",
-        "model": "gemini-flash-latest",  # check AI Studio for the current free Flash model name
+        "model": "gemini-flash-lite-latest",  # ~3 s per extraction; 3.5-flash took 55-80 s on 20 Nov 2026
     },
     "groq": {
         "base_url": "https://api.groq.com/openai/v1",
@@ -69,8 +69,9 @@ def _client(provider: str):
     key = _setting(cfg["key_env"]) if cfg["key_env"] else "ollama"
     if not key:
         raise LLMError(f"No API key for {provider}: set {cfg['key_env']}")
-    # Fail fast on an overloaded provider (e.g. Gemini 503) so the fallback takes over
-    return OpenAI(base_url=cfg["base_url"], api_key=key, timeout=60, max_retries=1)
+    # Fail fast on a slow or overloaded provider (e.g. Gemini 503) so the fallback takes over:
+    # worst case is ~25 s before Groq answers, which keeps an upload under the 30 s target.
+    return OpenAI(base_url=cfg["base_url"], api_key=key, timeout=25, max_retries=0)
 
 
 def _model(provider: str) -> str:
@@ -108,14 +109,43 @@ def stream_chat(messages: list[dict], temperature: float = 0.6) -> Iterator[str]
         yield chat(messages, temperature)
 
 
-def chat_json(system: str, user: str, schema: type[BaseModel], conn=None) -> BaseModel:
-    """Ask for JSON matching `schema`; validate it, retry once with the error, cache the result."""
+def _json_messages(system: str, user: str, schema: type[BaseModel]) -> list[dict]:
     schema_hint = json.dumps(schema.model_json_schema())
-    messages = [
+    return [
         {"role": "system", "content": f"{system}\n\nReply with ONLY a JSON object matching this JSON schema:\n{schema_hint}"},
         {"role": "user", "content": user},
     ]
-    key = hashlib.sha256(json.dumps(messages, sort_keys=True).encode()).hexdigest()
+
+
+def _cache_key(messages: list[dict]) -> str:
+    return hashlib.sha256(json.dumps(messages, sort_keys=True).encode()).hexdigest()
+
+
+def is_cached(system: str, user: str, schema: type[BaseModel], conn) -> bool:
+    """True if chat_json would answer from the cache (no AI call)."""
+    from core.db import cache_get
+
+    return conn is not None and cache_get(conn, _cache_key(_json_messages(system, user, schema))) is not None
+
+
+def load_local_secrets(path=None) -> None:
+    """Copy .streamlit/secrets.toml into environment variables for scripts. Never prints values."""
+    import tomllib
+    from pathlib import Path
+
+    path = Path(path or Path(__file__).resolve().parent.parent / ".streamlit" / "secrets.toml")
+    if not path.exists():
+        return
+    with path.open("rb") as fh:
+        for name, value in tomllib.load(fh).items():
+            if value and not os.environ.get(name):
+                os.environ[name] = str(value)
+
+
+def chat_json(system: str, user: str, schema: type[BaseModel], conn=None) -> BaseModel:
+    """Ask for JSON matching `schema`; validate it, retry once with the error, cache the result."""
+    messages = _json_messages(system, user, schema)
+    key = _cache_key(messages)
     if conn is not None:
         from core.db import cache_get
 

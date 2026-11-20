@@ -2,11 +2,11 @@ id,name,band,role_id,team_id,manager_id,performance_rating
 vikram,Vikram Rao,B4,engineering_manager,,,4.5
 meera,Meera Krishnan,B3,engineering_manager,,vikram,3.7
 rohan,Rohan Bhatia,B3,engineering_manager,,vikram,4.1
-kavya,Kavya Menon,B2,team_lead,cp,meera,3.8
+kavya,Kavya Menon,B2,team_lead,cp,meera,4.4
 arjun,Arjun Mehra,B2,team_lead,de,meera,4.1
 sameer,Sameer Kulkarni,B2,team_lead,fe,rohan,4.5
 ananya,Ananya Ghosh,B2,team_lead,ml,rohan,3.7
-aditya,Aditya Rao,B1,cloud_engineer,cp,kavya,3.8
+aditya,Aditya Rao,B1,cloud_engineer,cp,kavya,3.2
 imran,Imran Khan,B1,cloud_engineer,cp,kavya,2.8
 pooja,Pooja Desai,B1,cloud_engineer,cp,kavya,4.5
 sneha,Sneha Pillai,B1,cloud_engineer,cp,kavya,4.3
@@ -23,6 +23,6 @@ riya,Riya Sen,B1,frontend_engineer,fe,sameer,3.0
 tanvi,Tanvi Joshi,B1,frontend_engineer,fe,sameer,4.1
 fatima,Fatima Sheikh,B1,ml_engineer,ml,ananya,3.3
 harsh,Harsh Patel,B1,ml_engineer,ml,ananya,3.6
-meghna,Meghna Das,B1,ml_engineer,ml,ananya,3.3
+meghna,Meghna Das,B1,ml_engineer,ml,ananya,3.8
 nikhil,Nikhil Reddy,B1,ml_engineer,ml,ananya,3.9
 siddharth,Siddharth Jain,B1,ml_engineer,ml,ananya,4.8

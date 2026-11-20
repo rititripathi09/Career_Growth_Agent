@@ -7,7 +7,6 @@ by Groq. Never prints API keys.
 """
 import os
 import sys
-import tomllib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -22,11 +21,7 @@ def main() -> int:
     if not SECRETS.exists():
         print(f"Missing {SECRETS}. Copy secrets.toml.example to secrets.toml first.")
         return 1
-    with SECRETS.open("rb") as f:
-        secrets = tomllib.load(f)
-    for name, value in secrets.items():
-        if value and not os.environ.get(name):
-            os.environ[name] = str(value)
+    llm.load_local_secrets(SECRETS)
 
     provider = os.environ.get("LLM_PROVIDER", "gemini")
     os.environ["LLM_FALLBACK"] = provider  # test the primary on its own

@@ -1,6 +1,10 @@
 """Builds notebooks/02_synthetic_dataset_and_eval.ipynb (open the result in Google Colab)."""
 import json
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from core.extract import LEVEL_RULES  # noqa: E402  (same level rules as the app)
 
 cells = []
 
@@ -51,21 +55,20 @@ md("""## Score the extractor against the answer key
 
 Uses the free Gemini tier, so it checks a small sample with a pause between calls.""")
 
-code("""!pip install -q openai
+code(f"LEVEL_RULES = {json.dumps(LEVEL_RULES)}  # copied from core/extract.py\n\n" + """!pip install -q openai
 from google.colab import userdata
 from openai import OpenAI
 import json, time
 
 client = OpenAI(base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
                 api_key=userdata.get("GEMINI_API_KEY"))
-MODEL = "gemini-flash-latest"  # check AI Studio for the current free Flash model name
+MODEL = "gemini-flash-lite-latest"  # fast free model; check AI Studio if it stops working
 
 SKILLS = sorted(truth.skill.unique())
 SYSTEM = (
     "You read an employee's resume and extract evidence-backed skills.\\n"
     "Use ONLY these skill ids: " + ", ".join(SKILLS) + ".\\n"
-    "Levels: 0=None, 1=Aware, 2=Working, 3=Strong, 4=Expert. A course alone is level 1; production work is 2-3; "
-    "leading others or deep expertise is 3-4. Skip skills with no evidence.\\n"
+    "Levels: 0=None, 1=Aware, 2=Working, 3=Strong, 4=Expert.\\n" + LEVEL_RULES + "\\nSkip skills with no evidence.\\n"
     'Reply with ONLY JSON: {"skills": [{"skill": id, "level": int, "evidence": str}]}'
 )
 

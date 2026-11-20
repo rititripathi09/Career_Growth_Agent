@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Priya Sharma (synthetic)
 Overall rating: 4.0 / 5
 Strengths: Python, SQL.
-Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), MLOps.
+Growth areas: CI/CD, Cloud platform (Azure / AWS / GCP), Generative AI / LLM apps.

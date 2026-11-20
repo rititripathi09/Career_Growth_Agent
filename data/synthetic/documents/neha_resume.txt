@@ -3,6 +3,7 @@ Data Engineer, Nimbus Tech (synthetic profile)
 
 EXPERIENCE
 - Strong in Communication and presenting for over a year; led work on monthly demos to stakeholders.
+- Strong in Generative AI / LLM apps for over a year; led work on an LLM-based assistant with retrieval over internal docs.
 - Strong in Workflow orchestration for over a year; led work on scheduled DAGs with retries and alerts.
 - Strong in SQL for over a year; led work on warehouse queries and reporting views.
 - Used Cloud platform (Azure / AWS / GCP) regularly in project work, including moving batch jobs to managed cloud services.
@@ -13,4 +14,4 @@ EXPERIENCE
 - Completed an introductory online course on Python; no project work yet.
 
 SKILLS
-Communication and presenting, Workflow orchestration, SQL, Cloud platform (Azure / AWS / GCP), Data security basics, Streaming data
+Communication and presenting, Generative AI / LLM apps, Workflow orchestration, SQL, Cloud platform (Azure / AWS / GCP), Data security basics, Streaming data

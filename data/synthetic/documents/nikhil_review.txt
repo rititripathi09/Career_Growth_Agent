@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Nikhil Reddy (synthetic)
 Overall rating: 3.9 / 5
 Strengths: Git and code review, SQL.
-Growth areas: Cloud platform (Azure / AWS / GCP), Deep learning, Machine learning fundamentals.
+Growth areas: Cloud platform (Azure / AWS / GCP), Deep learning, Generative AI / LLM apps.

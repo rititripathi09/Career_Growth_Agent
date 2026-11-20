@@ -1,0 +1,23 @@
+HARSH PATEL
+ML Engineer, Nimbus Tech
+
+SUMMARY
+ML Engineer at Nimbus Tech. Focused on Python, data pipelines, and applied machine learning.
+
+EXPERIENCE
+Nimbus Tech
+ML Engineer (Jan 2023 – Present)
+Part of the core AI team working alongside two data engineers and a product manager to build internal tools and data workflows.
+
+- Led work on data pipelines, automation scripts, and warehouse queries using Python and SQL for over a year.
+- Built reporting views.
+- Used Machine learning fundamentals regularly in project work, including classification models with scikit-learn.
+- Used Feature engineering regularly in project work, including feature pipelines for model training.
+- Developed an LLM-based assistant with retrieval over internal docs as part of our Generative AI / LLM apps work.
+- Handled access reviews and PII masking as part of data security basics used regularly in project work.
+- Delivered monthly demos to stakeholders, applying communication and presenting regularly in project work.
+- Completed an introductory online course on Git and code review; no project work yet.
+- Completed an introductory online course on MLOps; no project work yet.
+
+Tools
+Python, SQL, Communication and presenting, Data security basics, Feature engineering, Generative AI / LLM apps, Machine learning fundamentals, Git and code review (coursework), MLOps (coursework)

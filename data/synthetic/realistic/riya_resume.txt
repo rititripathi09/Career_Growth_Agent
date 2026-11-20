@@ -1,0 +1,19 @@
+RIYA SEN
+Frontend Engineer
+
+SUMMARY
+Frontend engineer at Nimbus Tech. Go-to person for styling and React stuff on the team, helping out others and keeping our standards high.
+
+EXPERIENCE
+
+Nimbus Tech
+Frontend Engineer (Present)
+Part of the product frontend team working on our main customer-facing stuff alongside a few other devs and designers.
+
+- Handled JavaScript and TypeScript work regularly in project work, including TypeScript components for the customer portal.
+- Main go-to expert for HTML and CSS; set team standards and mentored others on responsive, accessible page layouts. Also became the recognized go-to expert for React; set team standards and mentored others on a React design-system library.
+- Used Git and code review regularly in project work, including code reviews and branching conventions.
+- Used Communication and presenting regularly in project work, including monthly demos to stakeholders.
+
+TOOLS
+HTML and CSS, React, Communication and presenting, Git and code review, JavaScript / TypeScript

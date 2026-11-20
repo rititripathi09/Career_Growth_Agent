@@ -1,4 +1,4 @@
 PERFORMANCE REVIEW: Siddharth Jain (synthetic)
 Overall rating: 4.8 / 5
 Strengths: Machine learning fundamentals.
-Growth areas: Cloud platform (Azure / AWS / GCP), MLOps, SQL.
+Growth areas: Cloud platform (Azure / AWS / GCP), Generative AI / LLM apps, MLOps.
